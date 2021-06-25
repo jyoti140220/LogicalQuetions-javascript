@@ -9,3 +9,6 @@ for (i in str){
     }
 }
 console.log(arr1);
+
+
+
