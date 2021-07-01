@@ -20,9 +20,7 @@ console.log(e);
 // map method  modify the array ye arrtithmethic operatpre k sath kam krta h
 
 ab=[1,2,3,4,5,6]
-var e=ab.map((item,u,e)=>{
-    return item**2
-})
+var e=ab.map((item)=>item+2)
 console.log(e);
 
 
